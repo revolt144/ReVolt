@@ -1,5 +1,5 @@
 # botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+BOT WHATSAPP HP BY Re
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -35,7 +35,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Quotes                           |
 |       ✅       | Anime                            |
 |       ✅       | Suara Google                     |
-|       ✅       | Quran                            |
+|       ✅       | Alkitab (gak tau work apa kaga)                            |
 |       ✅       | Youtube MP3 Downloader           |
 |       ✅       | Intagram Downloader              |
 |       ✅       | Twitter Downloader               |
@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+* [`Saweria`]
